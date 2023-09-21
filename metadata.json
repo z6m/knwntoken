@@ -1,3 +1,5 @@
-"name": "Known Token",
-"symbol": "KNWN",
-"image": "https://raw.githubusercontent.com/z6m/knwntoken/main/assets/logo.png",
+{
+  "name": "Known Token",
+  "symbol": "KNWN",
+  "image": "https://raw.githubusercontent.com/z6m/knwntoken/main/assets/logo.png"
+}
